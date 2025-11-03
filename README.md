@@ -4,4 +4,4 @@ It uses [LangChain](https://amzn.to/4hD1Gfb) for orchestration, Sentence Transfo
 
 Read more details in [this blog post](https://www.blog.qualitypointtech.com/2025/11/building-web-crawling-rag-chatbot-using.html).
 
-For one-on-one coaching of RAG and Lanchain, read details [here](https://www.blog.qualitypointtech.com/2025/08/paid-one-on-one-coaching-for-learning-ai.html).
+For one-on-one coaching of RAG, AI Agents, and Langchain, read details [here](https://www.blog.qualitypointtech.com/2025/08/paid-one-on-one-coaching-for-learning-ai.html).
